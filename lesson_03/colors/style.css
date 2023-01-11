@@ -23,6 +23,6 @@ footer {
     border: 1px solid lightgreen;
     color: white;
     font-size: 20px;
-    font-family: "Roboto";
+    font-family: 'Roboto', sans-serif;
     text-align: center;
 }
